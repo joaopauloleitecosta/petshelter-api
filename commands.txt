@@ -1,0 +1,7 @@
+1. npm int -y           //Start a new node project
+2. npm i express        //Install express
+3. npm i -D nodemon     //Install nodemon, server running and test
+4. npm i cors           //Test our server locally
+5. nodemon app.js       //Server is running
+6. npm install          //Install dependecies
+7. npm test             //Run Supertest
