@@ -5,3 +5,6 @@
 5. nodemon app.js       //Server is running
 6. npm install          //Install dependecies
 7. npm test             //Run Supertest
+8. npm i swagger-jsdoc
+9. npm i swagger-ui-express
+http://localhost:3000/api-docs/ 
