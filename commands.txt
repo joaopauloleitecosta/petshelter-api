@@ -8,3 +8,6 @@
 8. npm i swagger-jsdoc
 9. npm i swagger-ui-express
 http://localhost:3000/api-docs/ 
+
+article:
+https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/
